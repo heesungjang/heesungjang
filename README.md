@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Che-ri&fontAlign=70&fontAlignY=40&animation=twinkling)
-
 <h3 align="center">👋 Hi! there!</h3>
 <h3 align="center">📌Stack</h3>
 <p align="center">Technology used</p>
