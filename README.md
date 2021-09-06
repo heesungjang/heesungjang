@@ -7,7 +7,7 @@
 <br><img src="https://img.shields.io/badge/JavaScript-FFCD11?style=flat-square&logo=JavaScript&logoColor=white"></img> &nbsp <img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"></img> &nbsp <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a> &nbsp <img src="https://img.shields.io/badge/jQuery-3655FF?style=flat-square&logo=jQuery&logoColor=white"></img></div>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heesungjang&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heesungjang&theme=dracula&align=center)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
