@@ -1,7 +1,7 @@
 ## 👋 소개
 
 
-안녕하세요! 끊임없이 도전하고 노력하는 프론트엔드 개발자 **장희성**입니다.
+Hello! I'm Heesung Jang, who keeps thinking about and making beneficial things.
 
 
 <!-- <h3 align="center">📌Stack</h3> -->
