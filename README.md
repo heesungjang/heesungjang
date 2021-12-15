@@ -1,8 +1,7 @@
 ## 👋 소개
 
 
-Hello! I'm Heesung Jang, who keeps thinking about and making beneficial things.
-
+Hello! I'm Heesung Jang
 
 <!-- <h3 align="center">📌Stack</h3> -->
 <!-- <p align="center">Technology used</p> -->
