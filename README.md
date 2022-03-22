@@ -14,7 +14,7 @@ Hello! I'm Heesung Jang
 <div align=center>
 
 <a href="https://github.com/heesungjang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=heesungjang&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=heesungjang&theme=material-palenight" />
 </a>
 
 </div>
