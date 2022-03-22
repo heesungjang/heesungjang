@@ -18,12 +18,12 @@
 </div>
   
   
-<p>
+<!-- <p>
 ### 🌩 About Me 
   
 - Hello! I'm Heesung Jang
 </p>
 
-
+ -->
 
 
