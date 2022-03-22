@@ -21,6 +21,7 @@
 
 ### 🌩 About Me 
 <p>
+  
 - Hello! I'm Heesung Jang
 - Front-end development is of great interest to me
 - I am a people person, and I believe programming is the best way to have an impact on people's daily lives
