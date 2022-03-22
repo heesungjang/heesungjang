@@ -11,13 +11,20 @@ Hello! I'm Heesung Jang
 <!-- <br><img src="https://img.shields.io/badge/JavaScript-FFCD11?style=flat-square&logo=JavaScript&logoColor=white"></img> & <img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"></img> & <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a> </div> -->
 
 
-<div align=center>
+<!-- <div align=center>
 
 <a href="https://github.com/heesungjang/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=heesungjang&theme=dracula" />
 </a>
 
+<div align=center> -->
+ 
 <div align=center>
+[![Koda's github stats](https://github-readme-stats.vercel.app/api?username=heesungjang&theme=material-palenight&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+ 
+ 
+ 
  
  <div align=center>
   
