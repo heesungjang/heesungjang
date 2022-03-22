@@ -20,8 +20,7 @@ Hello! I'm Heesung Jang
 <div align=center> -->
  
 <div align=center>
-
-[![Koda's github stats](https://github-readme-stats.vercel.app/api?username=yjksw&theme=material-palenight&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Koda's github stats](https://github-readme-stats.vercel.app/api?username=heesungjang&theme=material-palenight&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 </div>
  
  
