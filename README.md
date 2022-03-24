@@ -35,5 +35,6 @@
 <img src="https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-B2F9FC?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
