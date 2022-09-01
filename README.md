@@ -16,12 +16,10 @@
 
 
 Personal blog: 
-
-https://heelog.blog.notaku.site
+- https://heelog.blog.notaku.site
 
 JavaScript Questions Playground: 
-
-https://jsquestions.vercel.app/questions
+- https://jsquestions.vercel.app/questions
 
 
 
