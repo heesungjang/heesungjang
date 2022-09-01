@@ -15,9 +15,13 @@
 </p>
 
 
-Personal blog: https://heelog.blog.notaku.site
+Personal blog: 
 
-JavaScript Questions Playground: https://jsquestions.vercel.app/questions
+https://heelog.blog.notaku.site
+
+JavaScript Questions Playground: 
+
+https://jsquestions.vercel.app/questions
 
 
 
