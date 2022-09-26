@@ -16,7 +16,7 @@
 
 
 Personal blog: 
-- https://notion-based-blog-template-e5ap.vercel.app/
+- https://notion-based-blog-template-e5ap.vercel.app
 
 JavaScript Questions Playground: 
 - https://jsquestions.vercel.app
