@@ -16,7 +16,7 @@
 
 
 Personal blog: 
-- https://heelog.blog.notaku.site
+- https://notion-based-blog-template-e5ap.vercel.app/
 
 JavaScript Questions Playground: 
 - https://jsquestions.vercel.app
